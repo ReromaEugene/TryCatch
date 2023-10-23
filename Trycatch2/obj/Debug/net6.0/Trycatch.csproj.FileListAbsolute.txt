@@ -1,0 +1,14 @@
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\bin\Debug\net6.0\Trycatch.exe
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\bin\Debug\net6.0\Trycatch.deps.json
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\bin\Debug\net6.0\Trycatch.runtimeconfig.json
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\bin\Debug\net6.0\Trycatch.dll
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\bin\Debug\net6.0\Trycatch.pdb
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\Trycatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\Trycatch.AssemblyInfoInputs.cache
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\Trycatch.AssemblyInfo.cs
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\Trycatch.csproj.CoreCompileInputs.cache
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\Trycatch.dll
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\refint\Trycatch.dll
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\Trycatch.pdb
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\Trycatch.genruntimeconfig.cache
+C:\Users\eugen\OneDrive\Documents\OOP\Trycatch\obj\Debug\net6.0\ref\Trycatch.dll
